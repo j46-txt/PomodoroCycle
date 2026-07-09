@@ -1,4 +1,4 @@
-# PomodoroCycle ⟳
+# PomodoroCycle ◌
 
 PomodoroCycle is a web-based focus timer built with HTML, CSS and vanilla JavaScript. 
 
