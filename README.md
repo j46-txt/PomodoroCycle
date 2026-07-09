@@ -33,4 +33,4 @@ It combines a configurable Pomodoro timer and study statistics in a simple inter
 
 PomodoroCycle was developed as a personal project to explore front-end development while building a practical tool for everyday study sessions.
 
-The project emphasizes simplicity, local-first data storage and a lightweight and gamified interface, in addition to features that allow complete control over the timer.
+The project emphasizes simplicity, local-first data storage and a gamified interface, in addition to features that allow complete control over the timer.
