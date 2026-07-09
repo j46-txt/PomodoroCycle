@@ -1,6 +1,6 @@
 # PomodoroCycle
 
-PomodoroCycle is a lightweight web-based study timer built with HTML, CSS and vanilla JavaScript. 
+PomodoroCycle is a web-based focus timer built with HTML, CSS and vanilla JavaScript. 
 
 It combines a configurable Pomodoro timer and study statistics in a simple interface, with all data stored locally in the browser. The application works entirely offline and requires no account or external services.
 
