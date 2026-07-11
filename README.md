@@ -6,7 +6,7 @@ Operating on a local-first architecture, the application stores all configuratio
 
 The timer supports customizable focus and break intervals with automated cycle transitions. The interface integrates a daily focus goal tracker, historical statistics, and a local achievement system based on accumulated focus milestones.
 
-[Live Demo](https://pomodoro-cycle.netlify.app/)
+> Live Demo: [pomodoro-cycle.netlify.app](https://pomodoro-cycle.netlify.app/)
 
 ## Features
 
@@ -25,9 +25,8 @@ The timer supports customizable focus and break intervals with automated cycle t
 ## Technology
 
 * HTML5
-* CSS3
 * JavaScript (ES6)
-* Tailwind CSS
+* Tailwind CSS / CSS3
 * Chart.js
 * Tone.js
 
