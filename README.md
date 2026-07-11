@@ -13,7 +13,7 @@ The timer supports customizable focus and break intervals with automated cycle t
 * Configurable Pomodoro timer
 * Sound alerts and notifications
 * Session tracker
-* Skipable breaks
+* Skippable breaks
 * Statistics dashboard
 * Daily goals
 * Progress chart
