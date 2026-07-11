@@ -4,7 +4,7 @@ PomodoroCycle is a web-based focus timer built with HTML, CSS and vanilla JavaSc
 
 Operating on a local-first architecture, the application stores all configuration settings, session history, and progress metrics entirely within the browser's `localStorage`. It functions completely offline and contains no external tracking or telemetry.
 
-The timer supports customizable focus and break intervals with automated cycle transitions. The interface integrates a daily focus goal tracker, historical statistics, and a local achievement system based on accumulated focus milestones.
+The timer supports customizable focus and break intervals with automated cycle transitions, alongside an interface that integrates historical statistics, a daily focus goal tracker, and a local achievement system based on accumulated focus milestones.
 
 > Live Demo: [pomodoro-cycle.netlify.app](https://pomodoro-cycle.netlify.app/)
 
