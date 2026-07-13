@@ -33,3 +33,5 @@ The timer supports customizable focus and break intervals with automated cycle t
 ## About
 
 PomodoroCycle was developed as a personal project to explore front-end development while building a practical tool for everyday study sessions.
+
+This project is no longer actively maintained.
